@@ -182,9 +182,9 @@ http://127.0.0.1:5000/
 ## 📸 Application Preview
 
 <p align="center">
-  <img src="assests\home.png" width="32%" />
-  <img src="assests\index.png" width="32%" />
-  <img src="assests\result.png" width="32%" />
+  <img src="assests\home.png" width="45%" />
+  <img src="assests\index.png" width="45%" />
+  <img src="assests\result.png" width="45%" />
 </p>
 
 ---
